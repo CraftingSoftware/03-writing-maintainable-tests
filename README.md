@@ -1,7 +1,5 @@
 # Writing Maintainable Tests with pytest
 
-## Due: Tuesday, September 27th, 2022 at 2:30 pm
-
 ## Introduction
 
 In this lab assignment, you will write maintainable tests for a parking management system. You will also assess existing tests for their maintainability and propose ways to improve their maintainability. Through this exercise, you will put into practice the following learning objective(s):
